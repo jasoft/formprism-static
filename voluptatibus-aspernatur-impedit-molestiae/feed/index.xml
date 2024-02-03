@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Voluptatibus aspernatur impedit molestiae	</title>
+	<atom:link href="http://formprism.test/voluptatibus-aspernatur-impedit-molestiae/feed/?simply_static_page=375" rel="self" type="application/rss+xml" />
+	<link>/voluptatibus-aspernatur-impedit-molestiae/</link>
+	<description>Add forms to your site in less than 1 minute.</description>
+	<lastBuildDate>Wed, 20 Apr 2022 07:41:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+</channel>
+</rss>
