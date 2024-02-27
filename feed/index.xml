@@ -9,10 +9,10 @@
 
 <channel>
 	<title>FormPrism</title>
-	<atom:link href="http://formprism.test/feed/?simply_static_page=983" rel="self" type="application/rss+xml" />
+	<atom:link href="http://formprism.test/feed/?simply_static_page=1503" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Add forms to your site in less than 1 minute.</description>
-	<lastBuildDate>Sun, 25 Feb 2024 15:39:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Feb 2024 07:39:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
