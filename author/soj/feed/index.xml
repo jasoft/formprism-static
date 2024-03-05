@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title>FormPrism</title>
-	<atom:link href="https://soj.myds.me/feed/?simply_static_page=2621" rel="self" type="application/rss+xml" />
+	<title>FormPrism &#8211; FormPrism</title>
+	<atom:link href="https://soj.myds.me/author/soj/feed/?simply_static_page=2778" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Add forms to your site in less than 1 minute.</description>
 	<lastBuildDate>Tue, 05 Mar 2024 05:29:39 +0000</lastBuildDate>
@@ -25,7 +25,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/02/cropped-cropped-formprismlogo-32x32.png</url>
-	<title>FormPrism</title>
+	<title>FormPrism &#8211; FormPrism</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
