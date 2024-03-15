@@ -11,10 +11,10 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="https://soj.myds.me/home/feed/?simply_static_page=3044" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Add forms to your site in less than 1 minute.</description>
-	<lastBuildDate>Tue, 05 Mar 2024 05:33:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Mar 2024 03:34:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

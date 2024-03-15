@@ -12,7 +12,7 @@
 
 <channel>
 	<title>FormPrism</title>
-	<atom:link href="https://soj.myds.me/feed/?simply_static_page=3042" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Add forms to your site in less than 1 minute.</description>
 	<lastBuildDate>Tue, 05 Mar 2024 05:29:39 +0000</lastBuildDate>
